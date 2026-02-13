@@ -6,7 +6,8 @@
 
 Aplicación de escritorio con interfaz gráfica para traducir subtítulos usando la API de DeepL. Soporta archivos individuales (.srt/.ass) y procesamiento completo de archivos MKV.
 
-![Screenshot](https://via.placeholder.com/800x500.png?text=Screenshot+Placeholder)
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/caea34de-7c56-4cd4-9a32-9d6c36e2fb6e" />
+
 
 ## ✨ Características
 
