@@ -252,8 +252,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 📧 Contacto
 
-- GitHub: [@TU_USUARIO](https://github.com/TU_USUARIO)
-- Email: tu_email@ejemplo.com
+- GitHub: [@YersonGD](https://github.com/YersonGD)
+- Email: yerdiaz784@gmail.com
 
 ## 🗺️ Roadmap
 
